@@ -19,3 +19,8 @@ DESIGN
   Either way program doens not work.
   Third Panel is for The Graph Type user can select any of 4 type of Graph with only pushing one of them.
   Last panel is Coment Section. User will see the devolopers comment for every graph.
+  
+SOURCE CODE
+
+  Changes can be made to the main program using the Matlab IDE.
+  To edit the User Interface, the desired interface can be obtained by modifying the PGPforIJPS.fig file via Matlab.
